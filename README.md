@@ -1,4 +1,5 @@
 💎 FinHub V1 - Modern Finance Management
+
 FinHub, modern tasarımı ve ortak hesap desteği ile bütçe takibi yapmanızı sağlayan PHP tabanlı bir finans yönetim panelidir. Kullanıcı dostu arayüzü ve hızlı işlem yeteneği ile finansal kontrolünüzü kolaylaştırır.
 
 ✨ Öne Çıkan Özellikler (V1)
