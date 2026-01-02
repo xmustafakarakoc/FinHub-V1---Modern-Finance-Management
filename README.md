@@ -1,49 +1,34 @@
-💎 FinHub V1 - Modern Finance Management
+💎 FinHub V1
+Modern, paylaşımlı ve şık finans yönetim paneli.
 
-FinHub, modern tasarımı ve ortak hesap desteği ile bütçe takibi yapmanızı sağlayan PHP tabanlı bir finans yönetim panelidir. Kullanıcı dostu arayüzü ve hızlı işlem yeteneği ile finansal kontrolünüzü kolaylaştırır.
+🚀 Özellikler
+Modern UI: Tailwind CSS ile tam uyumlu Glassmorphism arayüz.
 
-✨ Öne Çıkan Özellikler (V1)
-🌑 Glassmorphism UI: Tailwind CSS ile hazırlanan şeffaf ve modern karanlık tema.
+Ortak Hesap: Partnerler arası paylaşımlı bütçe yönetimi.
 
-👥 Ortak Hesap Desteği: Tek bir ana hesap üzerinden partner hesaplar tanımlama.
+Mobil Uyumluluk: Her ekran boyutunda kusursuz deneyim.
 
-📊 Anlık Bakiye Kontrolü: Gelir/gider farkını anlık hesaplayan dinamik motor.
+Veri Aktarımı: Tek tıkla Excel (.xls) çıktısı.
 
-📱 %100 Mobil Uyumlu: Telefonlar için optimize edilmiş özel kart görünümü.
+Hızlı İşlem: Gelir/Gider takibi ve bakiye analizi.
 
-📥 Veri Aktarımı: Kayıtları tek tıkla Excel formatında dışa aktarma.
+🛠 Kurulum
+Dosyaları sunucuna çek.
 
-🛠️ Kurulum Adımları (Setup)
-Projeyi çalıştırmak için aşağıdaki adımları sırasıyla takip edin:
+Klasördeki .sql dosyasını veritabanına aktar.
 
-Dosyaları İndirin: Repository'yi bilgisayarınıza clone edin veya ZIP olarak indirin.
+db.php içine DB bilgilerini gir.
 
-Veritabanını Hazırlayın: phpMyAdmin veya kullandığınız SQL aracına girerek yeni bir veritabanı oluşturun.
+Kullanmaya başla!
 
-SQL İçe Aktarın: Proje klasöründe bulunan SQL dosyasını oluşturduğunuz veritabanına İçe Aktar (Import) yaparak tabloları otomatik oluşturun.
+🔮 Yol Haritası (V2'de Gelecekler)
+📈 Harcama analiz grafikleri (Chart.js).
 
-Bağlantıyı Sağlayın: db.php dosyasını açın ve veritabanı bilgilerinizi kendi sunucunuza göre doldurun.
+📅 Tarih bazlı gelişmiş filtreleme.
 
-Çalıştırın: Dosyaları PHP destekli sunucunuza (XAMPP, Laragon vb.) yükleyip tarayıcıdan erişin.
+🔔 Limit aşım bildirimleri.
 
-🚀 Yol Haritası (Coming Soon: V2)
-V2 sürümünde gelecek devrimsel özellikler:
+🔓 Açık Kaynak (Open Source)
+Bu proje açık kaynak bir yazılımdır. Herkes özgürce kullanabilir, geliştirebilir ve faydalanabilir. Katkıda bulunmaktan çekinmeyin!
 
-📈 Akıllı Grafikler: Kategori bazlı görsel harcama dağılımı.
-
-📅 Gelişmiş Filtreleme: Tarih aralığına göre detaylı raporlar.
-
-🔔 Bildirimler: Limit aşımlarında uyarı sistemi.
-
-🧾 OCR Desteği: Fiş fotoğrafından otomatik işlem tanımlama.
-
-🔓 Açık Kaynak ve Paylaşım
-Bu proje açık kaynak bir girişimdir. Herkesin finansal yönetimini kolaylaştırmak amacıyla geliştirilmiştir.
-
-Projeyi dilediğiniz gibi fork'layabilir, geliştirebilir ve kendi ihtiyaçlarınıza göre özelleştirebilirsiniz.
-
-Kodları inceleyerek öğrenebilir, hataları düzelterek topluluğa katkıda bulunabilirsiniz.
-
-Herkes faydalanabilir, özgürce dağıtılabilir.
-
-Geliştiren: Mustafa Karakoç © 2026
+Mustafa Karakoç © 2026
