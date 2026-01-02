@@ -23,6 +23,7 @@ db.php içine DB bilgilerini gir.
 Kullanmaya başla!
 
 🔮 Yol Haritası (V2'de Gelecekler)
+
 📈 Harcama analiz grafikleri (Chart.js).
 
 📅 Tarih bazlı gelişmiş filtreleme.
@@ -30,6 +31,7 @@ Kullanmaya başla!
 🔔 Limit aşım bildirimleri.
 
 🔓 Açık Kaynak (Open Source)
+
 Bu proje açık kaynak bir yazılımdır. Herkes özgürce kullanabilir, geliştirebilir ve faydalanabilir. Katkıda bulunmaktan çekinmeyin!
 
 Mustafa Karakoç © 2026
