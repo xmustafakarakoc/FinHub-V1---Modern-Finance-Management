@@ -1,4 +1,5 @@
 💎 FinHub V1
+
 Modern, paylaşımlı ve şık finans yönetim paneli.
 
 🚀 Özellikler
